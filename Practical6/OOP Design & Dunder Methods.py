@@ -186,7 +186,7 @@ def main():
 
     # Extension 3: Student class
     print("\n11. Student Class")
-    student1 = Student("Rahul", 101, 85)
+    student1 = Student("Keshav", 101, 95)
 
     print(student1)
     print(repr(student1))
