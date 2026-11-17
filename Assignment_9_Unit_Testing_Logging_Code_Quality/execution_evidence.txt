@@ -1,0 +1,25 @@
+ASSIGNMENT 9 / PRACTICAL 10 - EXECUTION EVIDENCE
+================================================
+
+PYTEST
+Command: python3 -m pytest -v
+Result: 6 passed in 0.10s
+
+Tests passed:
+- test_calculate_discount
+- test_calculate_gst
+- test_calculate_order_total
+- test_zero_discount
+- test_negative_price_is_rejected
+- test_invalid_discount_is_rejected
+
+LOGGING
+Command: python3 logging_demo.py
+The generated application.log contains INFO, DEBUG, WARNING and ERROR entries
+for ORD101, ORD102 and ORD103 respectively.
+
+RUFF
+Ruff is not installed in the preparation environment, so no Ruff execution result
+is claimed here. Install it on your Mac with:
+python -m pip install ruff
+Then follow the exact Ruff workflow in README.txt and capture the terminal output.

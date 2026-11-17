@@ -1,0 +1,18 @@
+2026-11-17 09:01:55,561 - INFO - Processing order ORD101
+2026-11-17 09:01:55,561 - DEBUG - Validating order amount for order ORD101
+2026-11-17 09:01:55,561 - INFO - Order ORD101 processed successfully
+2026-11-17 09:01:55,561 - INFO - Processing order ORD102
+2026-11-17 09:01:55,561 - WARNING - Order ORD102 has a low order amount: 50
+2026-11-17 09:01:55,561 - DEBUG - Validating order amount for order ORD102
+2026-11-17 09:01:55,561 - INFO - Order ORD102 processed successfully
+2026-11-17 09:01:55,561 - INFO - Processing order ORD103
+2026-11-17 09:01:55,561 - ERROR - Order ORD103 has an invalid amount: -10
+2026-11-17 14:39:44,787 - INFO - Processing order ORD101
+2026-11-17 14:39:44,787 - DEBUG - Validating order amount for order ORD101
+2026-11-17 14:39:44,787 - INFO - Order ORD101 processed successfully
+2026-11-17 14:39:44,787 - INFO - Processing order ORD102
+2026-11-17 14:39:44,787 - WARNING - Order ORD102 has a low order amount: 50
+2026-11-17 14:39:44,787 - DEBUG - Validating order amount for order ORD102
+2026-11-17 14:39:44,787 - INFO - Order ORD102 processed successfully
+2026-11-17 14:39:44,787 - INFO - Processing order ORD103
+2026-11-17 14:39:44,787 - ERROR - Order ORD103 has an invalid amount: -10
